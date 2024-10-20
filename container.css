@@ -1,0 +1,7 @@
+.container {
+  max-width: 70rem; /* Limita a largura do container */
+  width: 100%; /* Para que o container use toda a largura disponível */
+  padding: 0 1rem; /* Para adicionar algum espaço nas laterais */
+  margin: 0 auto; /* Centraliza o container */
+  overflow-x: hidden; /* Garante que não haja rolagem lateral */
+}
